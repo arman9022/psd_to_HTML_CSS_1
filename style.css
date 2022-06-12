@@ -56,6 +56,16 @@ hr {
 .topNaviationBar{
   background-image: url('img/topNaviationBar/background.png');
 }
+.hover1:hover{
+  color: #F8246E;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+  color: #F8246E;
+}
+.nav-link {
+  font-weight: 800;
+  color: #222222;
+}
 .mainBanner{
     background-image: url('img/mainBanner/hero.jpg');
     height: 140vh;
