@@ -34,7 +34,7 @@
       height: 100vh !important;
     }
 }
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 425px) {
     #heroSection{
         margin-top: 2rem !important;
     }
