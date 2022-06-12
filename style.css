@@ -57,14 +57,14 @@ hr {
   background-image: url('img/topNaviationBar/background.png');
 }
 .hover1:hover{
-  color: #F8246E;
+  color: #F8246E !important;
 }
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
-  color: #F8246E;
+  color: #F8246E !important;
 }
 .nav-link {
-  font-weight: 800;
-  color: #222222;
+  font-weight: 800 !important;
+  color: #222222 !important;
 }
 .mainBanner{
     background-image: url('img/mainBanner/hero.jpg');
