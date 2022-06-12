@@ -62,10 +62,6 @@ hr {
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
   color: #F8246E !important;
 }
-.nav-link {
-  font-weight: 800 !important;
-  color: #222222 !important;
-}
 .mainBanner{
     background-image: url('img/mainBanner/hero.jpg');
     height: 140vh;
