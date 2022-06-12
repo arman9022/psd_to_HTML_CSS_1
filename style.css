@@ -109,39 +109,3 @@ hr {
 .footerFontColor {
     color: #fbffff !important;
 }
-@media only screen and (max-width: 500px) {
-    #text1 {
-      font-size: 2rem !important;
-    }
-    #text2 {
-      letter-spacing: 0 !important;
-    }
-    #topSpacing {
-      margin-top: 0 !important;
-    }
-    .owl-carousel .owl-nav button.owl-prev,
-    .owl-carousel button.owl-dot {
-      width: 5% !important;
-      height: 5% !important;
-    }
-    .owl-carousel .owl-nav button.owl-next,
-    .owl-carousel button.owl-dot {
-      width: 5% !important;
-      height: 5% !important;
-    }
-}
-@media only screen and (max-width: 750px) {
-    #text1 {
-      font-size: 3.5rem !important;
-      line-height: 3.3rem !important;
-    }
-    #text2 {
-      letter-spacing: 0 !important;
-    }
-    #topSpacing {
-      margin-top: 0 !important;
-    }
-    .mainBanner{
-      height: 100vh !important;
-    }
-}
